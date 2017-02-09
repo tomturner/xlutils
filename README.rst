@@ -6,7 +6,7 @@
 .. |Coveralls| image:: https://coveralls.io/repos/python-excel/xlutils/badge.svg?branch=master
 .. _Coveralls: https://coveralls.io/r/python-excel/xlutils?branch=master
 
-.. |Docs| image:: https://readthedocs.org/projects/xlutils/badge/?version=latest
+.. |Docs| image:: https://readthedocs.org/projects/pip/badge/?version=latest
 .. _Docs: http://xlutils.readthedocs.org/en/latest/
 
 .. |PyPI| image:: https://badge.fury.io/py/xlutils.svg
